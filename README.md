@@ -12,6 +12,12 @@ bash install.sh
 
 ./tools
 ```
+#### Update...
+```
+cd Update
+
+./update
+```
 
 ### [Mr.nope](https://github.com/mrprogrammer2938)
 
