@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# This code write by (ms.nope)
+# This code write by (Mr.nope)
 import os
 import time
 class color:
@@ -364,11 +364,10 @@ elif(str(choose) == '2'):
       else:
           os.system("python3 ptool.py")
 elif(str(choose) == '3'):
-    time.sleep(1)
     os.system("clear")
     time.sleep(1)
     print("""
-This code write by (ms.nope)
+This code write by (Mr.nope)
 usage:
      1 - and install pkg
      2 - and update your system
@@ -376,17 +375,16 @@ usage:
      4 - Exit package :(
 """)
     time.sleep(2)
-    try26 = str(input("press Enter... "))
-    if(str(try26) == ''):
+    try26 = input("\npress Enter... ")
+    if try26) == '':
       os.system("python3 ptool.py")
     else:
         os.system("python3 ptool.py")
 elif(str(choose) == '4'):
-    time.sleep(1)
     os.system("clear")
     time.sleep(1)
-    print("good bye")
-    exit(1)
+    print("Exiting...")
+    exit()
 elif(str(choose) == ''):
     os.system("python3 ptool.py")
 elif(str(choose) == ' '):
