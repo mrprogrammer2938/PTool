@@ -12,6 +12,7 @@ bash install.sh
 
 ./tools
 ```
+***This Programm Run as Root!***
 #### Update...
 ```
 cd Update
