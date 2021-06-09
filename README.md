@@ -10,7 +10,7 @@ cd PTool
 
 bash install.sh
 
-./ptool.py
+./tools
 ```
 
 ### [Mr.nope](https://github.com/mrprogrammer2938)
