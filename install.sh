@@ -13,6 +13,7 @@ echo ""
 sudo apt install python3
 sudo apt install python
 chmod +x tools
+cd Update && ./update
 sleep 1
 echo ""
 echo "Installing..., Finish...!"
